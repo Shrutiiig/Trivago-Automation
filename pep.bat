@@ -1,0 +1,1 @@
+node "trivago.js" "credentials.json" "Mumbai" "Single room"
